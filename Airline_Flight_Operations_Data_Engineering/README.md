@@ -1,4 +1,4 @@
-
+<img width="646" height="330" alt="image" src="https://github.com/user-attachments/assets/edaf9eb9-dbfe-4062-a72b-c53f20f863bb" />
 # Airline Flight Operations Analytics: End-to-End Data Engineering Project
 
 An end-to-end airline flight operations data engineering project built on **Azure Databricks Free Edition**, using **Lakeflow Spark Declarative Pipelines (SQL)** and the **Medallion Architecture (Bronze → Silver → Gold)**.
@@ -55,7 +55,7 @@ Manual data cleaning and reporting are difficult to maintain and are not easily 
 
 **Source CSV → Bronze → Silver → Gold → AI/BI Dashboard**
 
-![Medallion Architecture](images/medallion_architecture.png)
+![Medallion Architecture](assets/architecture/medallion_architecture_and_reconciliation.png)
 
 | Layer | Purpose | Key Actions |
 |---|---|---|
@@ -65,7 +65,7 @@ Manual data cleaning and reporting are difficult to maintain and are not easily 
 
 ## Pipeline Lineage
 
-![Pipeline Lineage](images/pipeline_lineage.png)
+![Pipeline Lineage](assets/pipeline_lineage.png)
 
 | Object | Type | Description |
 |---|---|---|
