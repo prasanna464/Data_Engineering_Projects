@@ -64,7 +64,7 @@ Manual data cleaning and reporting are difficult to maintain and are not easily 
 
 ## Pipeline Lineage
 
-![Pipeline Lineage](assets/pipeline_lineage.png)
+![Pipeline Lineage](assets/Pipeline_Lineage.png)
 
 | Object | Type | Description |
 |---|---|---|
