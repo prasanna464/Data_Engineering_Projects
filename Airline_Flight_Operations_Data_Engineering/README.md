@@ -1,4 +1,3 @@
-<img width="646" height="330" alt="image" src="https://github.com/user-attachments/assets/edaf9eb9-dbfe-4062-a72b-c53f20f863bb" />
 # Airline Flight Operations Analytics: End-to-End Data Engineering Project
 
 An end-to-end airline flight operations data engineering project built on **Azure Databricks Free Edition**, using **Lakeflow Spark Declarative Pipelines (SQL)** and the **Medallion Architecture (Bronze → Silver → Gold)**.
