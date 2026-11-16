@@ -205,6 +205,8 @@ The Silver layer transforms raw Bronze records into clean and rejected datasets.
 - Apply business validation rules.
 - Separate invalid records into the rejected dataset.
 
+![Silver Layer Data Cleaning Steps](assets/architecture/silver_cleaning_steps.png)
+
 **Delay Categorization:**
 
 | Delay Condition | Category |
