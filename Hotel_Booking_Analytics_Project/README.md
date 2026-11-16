@@ -143,7 +143,7 @@ Operations performed:
 - Unique booking IDs: 1,290
 - Duplicate records: 26
 
-![Bronze Layer Pipeline](assets/Bronze_Layer_Pipeline.png)
+![Bronze Layer Pipeline](assests/Bronze_Layer_Pipeline.png)
 
 ### Silver Layer – Data Cleaning and Validation
 
@@ -180,11 +180,11 @@ Validation rules:
 | Rejected records | 21 |
 | Duplicate records removed | 26 |
 
-![Silver Layer Pipeline](assets/Silver_Layer_Pipeline.png)
+![Silver Layer Pipeline](assests/Silver_Layer_Pipeline.png)
 
 #### Silver Cleaning Workflow
 
-![Silver Cleaning Steps](assets/Silver_Cleaning_Steps.png)
+![Silver Cleaning Steps](assests/Silver_Cleaning_Steps.png)
 
 ### Gold Layer – Business Analytics
 
@@ -198,7 +198,7 @@ The Gold layer contains five analytical tables created using SQL aggregations.
 | `gold_channel_summary` | Booking channel and cancellation analysis |
 | `gold_data_quality` | Data quality metrics and reconciliation |
 
-![Gold Layer Pipeline](assets/Gold_Layer_Pipeline.png)
+![Gold Layer Pipeline](assests/Gold_Layer_Pipeline.png)
 
 #### Business Metrics
 
