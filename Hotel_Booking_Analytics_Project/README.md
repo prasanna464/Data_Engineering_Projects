@@ -25,7 +25,7 @@ The objective of this project is to build a repeatable data pipeline that:
 
 The project follows the Medallion Architecture.
 
-![Medallion Architecture](assets/Medallion_Architecture.png)
+![Medallion Architecture](assests/Medallion_Architecture.png)
 
 ### Data Flow
 
